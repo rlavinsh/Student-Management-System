@@ -1,8 +1,14 @@
-# React + Vite
+Student-Management-System
+This is a simple CRUD (Create, Read, Update, Delete) application built using React, allowing users to manage student records. Users can add new students with details such as full name, class, roll number, subject, and date of birth.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features Create new student records Read existing student records Update student details Delete student records
 
-Currently, two official plugins are available:
+Prerequisites Node.js and npm (Node Package Manager) installed on your machine
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Installing
+
+1.Clone the repository to your local machine using the following command:    --- git clone [respository name]
+   
+2.Navigate to the project directory: -- cd Project-name 
+
+3.Install dependencies: npm install
